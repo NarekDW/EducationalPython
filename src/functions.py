@@ -1,6 +1,7 @@
 class Functions:
     def sort(self, array):
-        pass
+        return sorted(array)
+
 
     def get_min(self, array):
         pass
