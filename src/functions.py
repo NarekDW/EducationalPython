@@ -4,3 +4,6 @@ class Functions:
 
     def get_min(self, array):
         pass
+
+    def get_max(self, array):
+        pass
